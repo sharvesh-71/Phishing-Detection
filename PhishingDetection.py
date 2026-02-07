@@ -1,4 +1,6 @@
 # Phishing Detection Script - Version 1
+# Master branch: minor cleanup
+
 import streamlit as st
 import re
 import socket
