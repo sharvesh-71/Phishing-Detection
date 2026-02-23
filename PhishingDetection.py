@@ -1,4 +1,4 @@
-# Phishing Detection - Version A
+# Phishing Detection - Version B (Changed by Dev B)
 # Master branch: minor cleanup
 # Feature branch: adding extra documentation
 
