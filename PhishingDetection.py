@@ -1,4 +1,4 @@
-# Phishing Detection Script - Version 1
+# Phishing Detection - Version A
 # Master branch: minor cleanup
 # Feature branch: adding extra documentation
 
